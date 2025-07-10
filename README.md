@@ -21,7 +21,14 @@ This project demonstrates a clean component-based React architecture, Google Map
 
 ## 📸 Preview
 
-![screenshot](preview.png) <!-- You can replace with an actual screenshot -->
+- **🔍 Search & Filter UI**  
+  ![Search](https://github.com/Ravikalakoti/react-place-finder/blob/main/screenshorts/search.png)
+
+- **📄 Place List Panel**  
+  ![Details](https://github.com/Ravikalakoti/react-place-finder/blob/main/screenshorts/list.png)
+
+- **📚 Bookmarked Places Section**  
+  ![Bookmarks](https://github.com/Ravikalakoti/react-place-finder/blob/main/screenshorts/bookmarks.png)
 
 ---
 
@@ -66,22 +73,6 @@ npm start
 ```
 
 App runs at `http://localhost:3000`.
-
----
-
-## 🧩 Folder Structure
-
-```
-src/
-├── components/
-│   ├── SearchControls.js
-│   ├── PlaceList.js
-│   ├── PlaceDetails.js
-│   └── Bookmarks.js
-├── App.js
-├── App.css
-└── index.js
-```
 
 ---
 
